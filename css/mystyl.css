@@ -1,0 +1,84 @@
+.game {
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    float: right;
+    margin-right: 40px;
+    margin-top: 60px;
+}
+
+.col-sm-4 {
+    background-color: #B0C0D1;
+    height: 900px;
+}
+
+.col-sm-8 {
+    background-color: #1B817F;
+    height: 900px;
+}
+
+.ball {
+    position: relative;
+    margin-left: 120px;
+    margin-top: -910px;
+}
+
+.team {
+    word-spacing: 35px;
+    margin-top: 60px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    margin-left: 100px;
+}
+
+.Get {
+    margin-top: 270px;
+    margin-left: 220px;
+    font-size: 48px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    letter-spacing: 0.065em;
+}
+
+.desc {
+    margin-left: 220px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    line-height: 36px;
+    margin-top: 30px;
+    color: #E7E7E7;
+}
+
+.download-button {
+    margin-left: 220px;
+    height: 77px;
+    width: 289px;
+    position: absolute;
+    background-color: #B0C0D1 !important; 
+    color: black !important;
+    border-radius: 100px;
+    opacity: 0.77;
+    box-shadow: none;
+    margin-top: 40px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.load-button {
+    margin-left: 552px;
+    height: 77px;
+    width: 289px;
+    position: absolute;
+    background-color: white !important; 
+    color: #1B817F !important;
+    border-radius: 100px;
+    opacity: 0.77;
+    margin-top: 40px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.png {
+    margin-top: 60px;
+    margin-left: 130px;
+}

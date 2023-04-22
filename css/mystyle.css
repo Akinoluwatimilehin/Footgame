@@ -1,0 +1,98 @@
+.left {
+    position: absolute;
+    float: left;
+    width: 30%;
+    height: 900px;
+    background-color: #B0C0D1;
+    margin-right: 50px;
+}
+
+.right {
+    position: absolute;
+    width: 70%;
+    height: 900px;
+    background-color: #1B817F;
+    margin-left: 30%;
+    float: right;
+}
+
+body {
+    background-color: white;
+}
+
+.foot {
+  /*  margin-left: 158px; */
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    float: right;
+    margin-right: 40px;
+}
+
+.team {
+    word-spacing: 30px;
+    margin-top: 60px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    margin-left: 100px;
+}
+
+.ball {
+    position: relative;
+    margin-left: 90px;
+    margin-top: 90px;
+}
+
+.football {
+    margin-top: 270px;
+    margin-left: 220px;
+    font-size: 48px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    letter-spacing: 0.065em;
+}
+
+.desc {
+    margin-left: 220px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    line-height: 36px;
+    margin-top: 30px;
+    color: #E7E7E7;
+}
+
+.button1 {
+    margin-left: 220px;
+    height: 77px;
+    width: 289px;
+    position: absolute;
+    background-color: #B0C0D1 !important; 
+    color: black !important;
+    border-radius: 100px;
+    opacity: 0.77;
+    box-shadow: none;
+    margin-top: 40px;
+    font-size: 24px;
+    text-align: center;
+    border: none;
+}
+
+.button2 {
+    margin-left: 552px;
+    height: 77px;
+    width: 289px;
+    position: absolute;
+    background-color: white !important; 
+    color: #1B817F !important;
+    border-radius: 100px;
+    opacity: 0.77;
+    margin-top: 40px;
+    font-size: 24px;
+    text-align: center;
+    border: none;
+}
+
+.icon {
+    margin-top: 55px;
+    margin-left: 110px;
+}
